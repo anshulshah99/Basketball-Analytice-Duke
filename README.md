@@ -1,2 +1,2 @@
-# Basketball-Analytice-Duke
+# Basketball-Analytics-Duke
 Summer '19 projects
