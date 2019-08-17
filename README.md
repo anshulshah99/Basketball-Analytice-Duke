@@ -1,7 +1,7 @@
 # Basketball-Analytics-Duke
 Summer '19 projects
 
-Neural net of shot predictor is titles NeuralNet.py, support vector machine is titles SVM.py, and the decision tree is titled DecisionTree.py. Further, the mp4 file is a model of our gravity calculations updated at each frame. 
+Neural net of shot predictor is titled NeuralNet.py, support vector machine is titled SVM.py, and the decision tree is titled DecisionTree.py. Further, the mp4 file is a model of our gravity calculations updated at each frame. 
 
 We are currently writing a paper about our summer projects, linked here:
 Note: Paper is in progress
